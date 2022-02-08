@@ -1,0 +1,16 @@
+Manifest-Version: 1.0
+Class-Path: botCommons-fbb8f98.jar jackson-core-2.9.8.jar httpclient-4
+ .5.6.jar commons-text-1.4.jar gson-2.8.5.jar opus-java-natives-1.0.4.
+ jar opus-java-api-1.0.4.jar slf4j-jdk14-1.7.26.jar jackson-annotation
+ s-2.9.0.jar checker-qual-2.5.2.jar commons-lang3-3.7.jar jackson-data
+ bind-2.9.8.jar lavaplayer-1.3.17.jar json-20160810.jar okio-1.17.2.ja
+ r lava-common-1.1.0.jar commons-collections4-4.1.jar base64-2.3.9.jar
+  slf4j-api-1.7.25.jar commons-logging-1.2.jar jsoup-1.11.3.jar annota
+ tions-16.0.1.jar jsr305-3.0.2.jar JDA-3.8.3_463.jar reliqua-2.4.jar a
+ nimal-sniffer-annotations-1.14.jar commons-io-2.6.jar httpcore-4.4.10
+ .jar nv-websocket-client-2.5.jar jna-4.4.0.jar error_prone_annotation
+ s-2.1.3.jar okhttp-3.13.0.jar commons-codec-1.10.jar j2objc-annotatio
+ ns-1.1.jar trove4j-3.0.3.jar lavaplayer-natives-1.3.13.jar guava-26.0
+ -jre.jar
+Main-Class: ml.putin.Electro.Main
+
